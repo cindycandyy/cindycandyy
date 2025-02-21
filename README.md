@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS | 🎨 UI/UX & Creative Design Enthusiast<br><br>I'm a second-year Software Engineering student with a strong interest in UI/UX design, branding, and data analytics. I love creating intuitive and visually appealing designs while also exploring how data can drive better decision-making.
+Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS | 🎨 UI/UX & Creative Design Enthusiast<br><br>I'm a second-year Software Engineering student with a strong interest in UI/UX design, branding, and data analytics. I love creating intuitive and visually appealing designs while also exploring how data can drive better decision-making
 
 
 ## 🌐 Socials:
