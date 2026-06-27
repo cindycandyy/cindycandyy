@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS  <br>🎨 Full-Stack & Mobile Development <br><br>.<br>
+Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS  <br>🎨 Full-Stack & Mobile Development <br><br><br>
 
 
 ## 🌐 Socials:
