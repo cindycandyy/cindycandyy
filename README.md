@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS  <br>🎨 UI/UX Design & Frontend Development  <br><br>Third-year Software Engineering student specializing in UI/UX and frontend development.<br>
+Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS  <br>🎨 UI/UX Design & Frontend Development  <br><br>Third-year Software Engineering student specializing in Full-Stack & Mobile Development. Building scalable web and responsive mobile apps.<br>
 
 
 ## 🌐 Socials:
