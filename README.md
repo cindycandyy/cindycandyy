@@ -12,6 +12,5 @@ Hi, I'm Cindy Revalia 👋<br><br>💻 Software Engineering Student @ ITS  <br>�
 ![](https://github-readme-stats.shion.dev/api?username=cindycandyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=cindycandyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cindycandyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-username=cindycandyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
